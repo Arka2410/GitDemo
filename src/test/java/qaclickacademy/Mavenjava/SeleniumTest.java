@@ -13,6 +13,11 @@ public class SeleniumTest {
 	{
 		System.out.println("MobileBrowserAutomation");
 	}
+	@Test
+	public void MobileBrowseAutomation()
+	{
+		System.out.println("MobileBrowseAutomation");
+	}
 	
 
 }
